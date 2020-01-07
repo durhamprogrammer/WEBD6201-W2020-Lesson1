@@ -1,0 +1,15 @@
+{
+  "name": "webd6201-w2020-lesson1",
+  "version": "1.0.0",
+  "description": "Demo site for WEBD6201 - Lesson 1",
+  "main": "index.js",
+  "repository": "https://github.com/durhamprogrammer/WEBD6201-W2020-Lesson1.git",
+  "author": "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
